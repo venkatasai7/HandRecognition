@@ -1,5 +1,3 @@
-# HandRecognition
-
 # Hand Cricket App
 
 This is a simple application that allows users to play hand cricket using hand gestures captured through the webcam. The game is played by making different hand gestures representing numbers from 1 to 10.
