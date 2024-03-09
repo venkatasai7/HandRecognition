@@ -21,7 +21,7 @@ To run the application, ensure you have Python installed on your system. You can
 1. Clone or download the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/hand-cricket-app.git
+git clone https://github.com/venkatasai7/HandRecognition/tree/main
 ```
 
 2. Navigate to the project directory
